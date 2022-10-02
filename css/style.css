@@ -369,7 +369,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(#23ff00 20%,rgb(0 248 51 / 0%) 20%,rgba(0, 0, 0, 0) 40%,#ffffff 40%,#ef8d8d94 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#ff0000 80%);
 	content:'';
 }
 .menu-button:hover {
