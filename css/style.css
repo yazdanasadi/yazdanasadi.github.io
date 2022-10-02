@@ -568,7 +568,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #901e1e;
+    color: #f7f7f7;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -579,7 +579,7 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #ffffff;
+	background: #000000;
 }
 
 .color-bg a {
