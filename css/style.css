@@ -25,7 +25,7 @@
 	Global Styles
 ========================================================================== */
 a {
-	color: #E04343;
+	color: #47006d;
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
@@ -152,7 +152,7 @@ dfn {
 	font-style:italic;
 }
 mark {
-	background:#ff0;
+	background:rgb(102, 22, 0);
 	color:#000;
 }
 p,pre {
@@ -299,9 +299,9 @@ table {
 	padding:20px 0;
 }
 .dark-box:hover,.dark-box:focus {
-	-webkit-box-shadow: 0px 3px 0px 0px #FFE801;
-	-moz-box-shadow: 0px 3px 0px 0px #FFE801;
-	box-shadow: 0px 3px 0px 0px #FFE801;
+	-webkit-box-shadow: 0px 3px 0px 0px #850601;
+	-moz-box-shadow: 0px 3px 0px 0px #8c1702;
+	box-shadow: 0px 3px 0px 0px #730d00;
 }
 .box-hover {
 	transition:all 500ms ease-in-out;
