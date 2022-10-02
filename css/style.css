@@ -870,21 +870,21 @@ img.grayscale:hover {
 }
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
-	background-color: #08005c;
+	background-color: #000000;
 	padding:70px 0;
 }
 .outline-btn {
 	display:inline-block;
 	padding:25px 40px;
-	color: #901e1e;
-	border: solid 1px #901e1e;
+	color: #a60000;
+	border: solid 1px #af0000;
 	text-transform:uppercase;
 	font-weight:bold;
 	letter-spacing:1px;
 }
 .outline-btn:hover,.outline-btn:focus {
-	color: #901e1e;
-	border: solid 1px #901e1e;
+	color: #dd0000;
+	border: solid 1px #e20000;
 	background: #080700;
 }
 .weight-outline-btn {
