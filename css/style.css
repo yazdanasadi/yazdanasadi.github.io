@@ -561,7 +561,7 @@ table {
 h1.arrow {
 	font-size: 16px;
 	text-transform:uppercase;
-	color:#353535;
+	color:#6e0000;
 	letter-spacing: 4px;
 	background:url('../img/h1-bg.png') no-repeat center bottom;
 	padding-bottom:30px;
@@ -583,7 +583,7 @@ h1.arrow span {
 }
 
 .color-bg a {
-    color: #FFE800;
+    color: #790400;
 }
 .color-bg h6, .color-bg p {
     color: white;
@@ -597,7 +597,7 @@ h1.arrow span {
 }
 .color-bg .weight-outline-btn:hover {
   background: #FFF;
-  color: #4209a5;
+  color: #000000;
   border-color: rgba(0, 0, 0, 0);
 }
 .about-text {
